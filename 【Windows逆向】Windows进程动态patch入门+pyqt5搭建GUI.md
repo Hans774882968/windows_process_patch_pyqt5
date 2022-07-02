@@ -12,6 +12,10 @@
 
 **作者：[hans774882968](https://blog.csdn.net/hans774882968)以及[hans774882968](https://juejin.cn/user/1464964842528888)**
 
+[本文代码已在GitHub开源](https://github.com/Hans774882968/windows_process_patch_pyqt5)
+
+[本文juejin](https://juejin.cn/post/7115679857421484063/)
+
 效果图：
 
 检测到进程：
